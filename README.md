@@ -33,7 +33,7 @@ The objective is to:
 - Pandas
 - NumPy
 - Matplotlib / Seaborn
+- EDA
 - Jupyter Notebook
-
-## 📁 Repository Structure
+- Tensorflow
 
